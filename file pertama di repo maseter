@@ -1,2 +1,5 @@
 Ini file txt yang ada di branch master
-- 
+- ini tambahan dari branch 1
+- ini tambahan dari branch 1 juga
+- ini akan di hapus oleh branch 2 setelah branch 1 di marge
+- ini akan di ubah oleh branch 3 setelah branch 1 di marge
